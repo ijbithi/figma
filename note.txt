@@ -1,0 +1,8 @@
+primary colour + bttn clr blue 06B6D4
+secondary clr  + bttn txt clr + bg clr sky blue E5FDFF
+bttn primry text clr white FFFFFF
+bttn secndry clr F1F5F9
+primry + scndry txt clr  blk #000000E0, grey #464646, 
+ff inter variable 700px , 400px, 600px
+
+background: linear-gradient(180deg, #e0f7fa, #ffffff);
